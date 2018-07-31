@@ -5,7 +5,7 @@ import AddContact from './components/contacts/AddContact';
 import EditContact from './components/contacts/EditContact';
 
 import Header from "./components/layout/Header";
-import Pages from "./components/pages/About";
+// import Pages from "./components/pages/About";
 
 import { Provider } from "./context";
 import "bootstrap/dist/css/bootstrap.min.css";
